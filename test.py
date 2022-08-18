@@ -1,0 +1,1 @@
+print('hello Python in Visual Studio Code')
